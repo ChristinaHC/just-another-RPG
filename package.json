@@ -1,0 +1,22 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristinaHC/just-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristinaHC/just-another-RPG/issues"
+  },
+  "homepage": "https://github.com/ChristinaHC/just-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
